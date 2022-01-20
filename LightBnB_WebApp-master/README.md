@@ -27,6 +27,7 @@
   ├── server.js
   └── userRoutes.js
 ```
+////
 
 * `public` contains all of the HTML, CSS, and client side JavaScript. 
   * `index.html` is the entry point to the application. It's the only html page because this is a single page application.
