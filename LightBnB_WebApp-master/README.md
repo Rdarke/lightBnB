@@ -1,4 +1,4 @@
-# LightBnB
+# LightBnB ##
 
 ## Project Structure
 
